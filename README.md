@@ -1,18 +1,28 @@
 <h1 align="center">Hi 👋, I'm Akshata Kumbhar</h1>
 
+<h3 align="center">
+SAP ABAP Developer | SAP S/4HANA | RAP | CDS Views | OData | SAP BTP
+</h3>
+
 <p align="center">
+
+<img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0B3B8C?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAP-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CDS%20Views-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OData-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SAP%20BTP-00BCD4?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Eclipse%20ADT-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 ---
