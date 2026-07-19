@@ -68,5 +68,5 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akshata-kumbhar-320836287/
+- Email: akshatakumbhar08@gmail.com
