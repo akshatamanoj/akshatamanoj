@@ -21,42 +21,22 @@
 - 🎯 Goal: Become an SAP Technical Consultant
 
 
-## 🛠 Skills
+## 🛠️ Tech Skills
 
-### SAP
-- SAP ABAP
-- SAP S/4HANA
-- RAP
-- CDS Views
-- OData
-- Adobe Forms
-- Smart Forms
-- ALV Reports
-- Module Pool Programming
-- Data Dictionary
-- Debugging
-- Performance Tuning
+- **SAP:** SAP ABAP, SAP S/4HANA, RAP, CDS Views, OData, SAP HANA, SAP BTP
 
-### Programming
-- ABAP
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
+- **Development:** Classical Reports, ALV Reports, Module Pool Programming, Smart Forms, Adobe Forms
 
-### Database
-- SAP HANA
-- MySQL
+- **Programming Languages:** ABAP, Java, SQL, HTML, CSS, JavaScript
 
-### Tools
-- Eclipse ADT
-- SAP Logon
-- Git
-- GitHub
-- VS Code
-- Postman
+- **Databases:** SAP HANA, MySQL
 
+- **Tools & IDEs:** Eclipse ADT, SAP Logon, VS Code, Git, GitHub, Postman
+
+- **Core Concepts:** Data Dictionary, Open SQL, Internal Tables, Debugging, Performance Tuning
+
+- **Currently Learning:** RAP, CDS Views, OData Services, SAP BTP, Fiori
+  
 ## 🚀 Projects
 
 - 🛒 E-Commerce Order Management System (RAP)
