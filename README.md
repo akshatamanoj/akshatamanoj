@@ -2,19 +2,14 @@
 
 <p align="center">
 
-![](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![](https://img.shields.io/badge/SAP%20S%2F4HANA-0B5CAD?style=for-the-badge&logo=sap&logoColor=white)
-![](https://img.shields.io/badge/RAP-4CAF50?style=for-the-badge)
-![](https://img.shields.io/badge/CDS%20Views-FF9800?style=for-the-badge)
-![](https://img.shields.io/badge/OData-673AB7?style=for-the-badge)
-![](https://img.shields.io/badge/SAP%20BTP-00BCD4?style=for-the-badge&logo=sap&logoColor=white)
-
-</p>
-
-<p align="center">
-
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0B5CAD?style=for-the-badge&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/RAP-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CDS%20Views-FF9800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OData-673AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SAP%20BTP-00BCD4?style=for-the-badge&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </p>
 ---
