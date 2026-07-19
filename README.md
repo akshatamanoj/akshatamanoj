@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshata Kumbhar</h1>
-<h2 align="center">
+<h4 align="center">
 💻 SAP ABAP Developer | SAP S/4HANA | RAP | CDS Views | OData | SAP BTP
-</h2>
+</h4>
 
 <p align="center">
 
