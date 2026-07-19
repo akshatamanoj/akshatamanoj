@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </p>
----
+
 
 ## 👩‍💻 About Me
 
@@ -20,7 +20,6 @@
 - 🚀 Passionate about SAP S/4HANA Development
 - 🎯 Goal: Become an SAP Technical Consultant
 
----
 
 ## 🛠 Skills
 
@@ -58,16 +57,12 @@
 - VS Code
 - Postman
 
----
-
 ## 🚀 Projects
 
 - 🛒 E-Commerce Order Management System (RAP)
 - 📚 Library Management System
 - 🌦 Weather Application
 - 🤖 Sign Language Detection System
-
----
 
 ## 📫 Connect with Me
 
